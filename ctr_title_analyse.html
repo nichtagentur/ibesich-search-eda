@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CTR- und Title-Tag-Analyse</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; color: #17202a; background: #f5f7fa; }
+    main { max-width: 1220px; margin: 0 auto; padding: 30px; background: #fff; min-height: 100vh; }
+    h1 { margin: 0 0 8px; font-size: 30px; }
+    h2 { margin-top: 32px; border-top: 1px solid #d9e0e7; padding-top: 24px; }
+    p { line-height: 1.45; max-width: 920px; }
+    table { width: 100%; border-collapse: collapse; margin: 18px 0 26px; font-size: 13px; }
+    th, td { border-bottom: 1px solid #e1e7ec; padding: 8px 9px; text-align: left; vertical-align: top; }
+    th { background: #eef3f7; }
+    img { display: block; width: 100%; max-width: 1160px; height: auto; border: 1px solid #d9e0e7; background: #fff; }
+    code { background: #eef3f7; padding: 1px 4px; border-radius: 3px; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>CTR- und Title-Tag-Analyse</h1>
+  <p>Die CTR wurde gegen eine erwartete CTR je Ranking-Positions-Bucket normalisiert. Ein CTR-Index von 100 bedeutet erwartbar; unter 100 deutet auf Snippet-/Title-Potenzial hin.</p>
+  <h2>Title-Tag-Priorisierung</h2>
+  <table><thead><tr><th>Seite</th><th>Title anpassen?</th><th>Aktueller Title</th><th>CTR-Index</th><th>Fehlende Klicks</th><th>Fehlende Begriffe aus Flops</th><th>Vorgeschlagener Title</th></tr></thead><tbody><tr><td>rechner</td><td>Nein</td><td>Alimente Rechner Österreich 2026 | Unterhalt berechnen</td><td>153</td><td>0</td><td>ehegattenunterhalt, berechnung, werden, berechnet, ehefrau, wieviel</td><td>Alimente Rechner Österreich 2026 | Unterhalt berechnen</td></tr><tr><td>unterhalt-alimente</td><td>Ja, höchste Priorität</td><td>Unterhalt &amp; Alimente 2026: Beispiele &amp; Infos für Österreich</td><td>67</td><td>414</td><td>rechner, berechnung, tabelle, man, zahlen, muss</td><td>Alimente &amp; Unterhalt 2026 | Tabelle, Rechner, Beispiele</td></tr><tr><td>vermoegensaufteilung</td><td>Ja, mittlere Priorität</td><td>Wer bekommt was (2026) | Scheidung Vermögensaufteilung (AT)</td><td>69</td><td>43</td><td>zugewinnausgleich, zugewinngemeinschaft, ausgleichszahlung, haus, auszahlen, berechnung</td><td>Vermögensaufteilung Scheidung 2026 | Haus &amp; Ehevertrag</td></tr><tr><td>kinder-obsorge</td><td>Ja</td><td>Scheidung mit Kindern | Obsorge-Infos 2026 (mit Beispielen)</td><td>48</td><td>88</td><td>kind, vater, muss, gegen, seinen, willen</td><td>Scheidung mit Kindern 2026 | Obsorge &amp; Sorgerecht</td></tr><tr><td>strittig</td><td>Ja, mittlere Priorität</td><td>Strittige Scheidung 2026 | Ablauf, Gründe &amp; häufige Fehler</td><td>58</td><td>50</td><td>nicht, einvernehmliche, anwalt, einseitige, erfahrungen, schuldhafte</td><td>Strittige Scheidung Österreich 2026 | Ablauf, Gründe, Fehler</td></tr><tr><td>einvernehmlich</td><td>Ja</td><td>Einvernehmliche Scheidung Österreich 2026 | So funktionierts</td><td>48</td><td>135</td><td>einvernehmlich, ablauf, kosten, unterhalt, lange, dauert</td><td>Einvernehmliche Scheidung 2026 | Ablauf, Kosten, Formular</td></tr></tbody></table>
+  
+        <section>
+          <h2>rechner</h2>
+          <p><strong>Aktueller Title:</strong> Alimente Rechner Österreich 2026 | Unterhalt berechnen</p>
+          <p><strong>Empfehlung:</strong> Nein. <strong>Vorschlag:</strong> Alimente Rechner Österreich 2026 | Unterhalt berechnen</p>
+          <img src="ctr_top_flop_rechner.svg" alt="Top und Flop Queries fuer rechner">
+        </section>
+        
+        <section>
+          <h2>unterhalt-alimente</h2>
+          <p><strong>Aktueller Title:</strong> Unterhalt &amp; Alimente 2026: Beispiele &amp; Infos für Österreich</p>
+          <p><strong>Empfehlung:</strong> Ja, höchste Priorität. <strong>Vorschlag:</strong> Alimente &amp; Unterhalt 2026 | Tabelle, Rechner, Beispiele</p>
+          <img src="ctr_top_flop_unterhalt-alimente.svg" alt="Top und Flop Queries fuer unterhalt-alimente">
+        </section>
+        
+        <section>
+          <h2>vermoegensaufteilung</h2>
+          <p><strong>Aktueller Title:</strong> Wer bekommt was (2026) | Scheidung Vermögensaufteilung (AT)</p>
+          <p><strong>Empfehlung:</strong> Ja, mittlere Priorität. <strong>Vorschlag:</strong> Vermögensaufteilung Scheidung 2026 | Haus &amp; Ehevertrag</p>
+          <img src="ctr_top_flop_vermoegensaufteilung.svg" alt="Top und Flop Queries fuer vermoegensaufteilung">
+        </section>
+        
+        <section>
+          <h2>kinder-obsorge</h2>
+          <p><strong>Aktueller Title:</strong> Scheidung mit Kindern | Obsorge-Infos 2026 (mit Beispielen)</p>
+          <p><strong>Empfehlung:</strong> Ja. <strong>Vorschlag:</strong> Scheidung mit Kindern 2026 | Obsorge &amp; Sorgerecht</p>
+          <img src="ctr_top_flop_kinder-obsorge.svg" alt="Top und Flop Queries fuer kinder-obsorge">
+        </section>
+        
+        <section>
+          <h2>strittig</h2>
+          <p><strong>Aktueller Title:</strong> Strittige Scheidung 2026 | Ablauf, Gründe &amp; häufige Fehler</p>
+          <p><strong>Empfehlung:</strong> Ja, mittlere Priorität. <strong>Vorschlag:</strong> Strittige Scheidung Österreich 2026 | Ablauf, Gründe, Fehler</p>
+          <img src="ctr_top_flop_strittig.svg" alt="Top und Flop Queries fuer strittig">
+        </section>
+        
+        <section>
+          <h2>einvernehmlich</h2>
+          <p><strong>Aktueller Title:</strong> Einvernehmliche Scheidung Österreich 2026 | So funktionierts</p>
+          <p><strong>Empfehlung:</strong> Ja. <strong>Vorschlag:</strong> Einvernehmliche Scheidung 2026 | Ablauf, Kosten, Formular</p>
+          <img src="ctr_top_flop_einvernehmlich.svg" alt="Top und Flop Queries fuer einvernehmlich">
+        </section>
+        
+</main>
+</body>
+</html>

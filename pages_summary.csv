@@ -1,0 +1,7 @@
+slug,url,clicks,impressions,ctr,position,days,date_min,date_max,daily_clicks,daily_impressions,query_clicks,query_impressions,device_clicks,country_clicks,query_count,first14_clicks,last14_clicks,trend_pct,best_day,best_day_clicks
+rechner,https://ibesich.at/scheidung/unterhalt-alimente/rechner/,2534,73852,3.43,6.47,89,2026-02-04,2026-05-03,2534,73852,2101,56892,2101,2101,770,158,437,176.58227848101268,2026-03-01,77
+unterhalt-alimente,https://ibesich.at/scheidung/unterhalt-alimente/,2111,273827,0.77,8.28,89,2026-02-04,2026-05-03,2111,273827,846,106313,846,846,1000,354,247,-30.225988700564972,2026-03-16,48
+vermoegensaufteilung,https://ibesich.at/scheidung/vermoegensaufteilung/,605,58859,1.03,7.59,89,2026-02-04,2026-05-03,605,58859,94,10346,94,94,1000,91,90,-1.098901098901099,2026-04-10,16
+kinder-obsorge,https://ibesich.at/scheidung/kinder-obsorge/,518,61077,0.85,6.54,89,2026-02-04,2026-05-03,518,61077,81,12349,81,81,1000,77,64,-16.883116883116884,2026-04-12,12
+strittig,https://ibesich.at/scheidung/strittig/,372,29179,1.27,6.78,89,2026-02-04,2026-05-03,372,29179,68,7747,68,68,923,56,63,12.5,2026-02-12,10
+einvernehmlich,https://ibesich.at/scheidung/einvernehmlich/,283,39328,0.72,8.21,89,2026-02-04,2026-05-03,283,39328,126,19659,126,126,1000,62,40,-35.483870967741936,2026-04-02,11

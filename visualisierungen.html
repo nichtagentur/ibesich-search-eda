@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>3 Visualisierungen - ibesich.at Search Performance</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      color: #17202a;
+      background: #f5f7fa;
+    }
+    main {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 30px;
+      background: #fff;
+      min-height: 100vh;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 30px;
+      line-height: 1.15;
+    }
+    .intro {
+      max-width: 780px;
+      color: #52616f;
+      line-height: 1.45;
+      margin: 0 0 28px;
+    }
+    section {
+      border-top: 1px solid #d9e0e7;
+      padding: 26px 0 32px;
+    }
+    h2 {
+      font-size: 21px;
+      margin: 0 0 8px;
+    }
+    p {
+      line-height: 1.45;
+      margin: 0 0 16px;
+      max-width: 860px;
+    }
+    img {
+      display: block;
+      width: 100%;
+      max-width: 1100px;
+      height: auto;
+      border: 1px solid #d9e0e7;
+      background: #fff;
+    }
+    strong {
+      font-weight: 700;
+    }
+    @media (max-width: 760px) {
+      main {
+        padding: 18px;
+      }
+      h1 {
+        font-size: 24px;
+      }
+      h2 {
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>3 Visualisierungen zur Search-Performance</h1>
+    <p class="intro">
+      Diese Seite zeigt die drei wichtigsten Blickwinkel auf die Google-Search-Console-Daten:
+      Seitenleistung, Query-Potenziale und Geräteverteilung.
+    </p>
+
+    <section>
+      <h2>1. Landingpage-Portfolio</h2>
+      <p>
+        <strong>Interpretation:</strong> <code>unterhalt-alimente</code> hat die groesste Reichweite,
+        aber eine niedrige CTR. <code>rechner</code> hat weniger Impressionen, liefert aber deutlich
+        effizienter Klicks.
+      </p>
+      <img src="viz1_landingpage_portfolio.svg" alt="Landingpage-Portfolio: Impressionen vs CTR, Bubble = Klicks">
+    </section>
+
+    <section>
+      <h2>2. CTR-Opportunities</h2>
+      <p>
+        <strong>Interpretation:</strong> Die groessten kurzfristigen SEO-Hebel liegen bei Suchanfragen
+        mit vielen Impressionen, Position 3-12 und niedriger CTR, vor allem rund um
+        <code>alimente</code> auf <code>unterhalt-alimente</code>.
+      </p>
+      <img src="viz2_ctr_opportunities.svg" alt="CTR-Opportunity-Grafik">
+    </section>
+
+    <section>
+      <h2>3. Geraete-Matrix</h2>
+      <p>
+        <strong>Interpretation:</strong> Die Nutzung ist klar mobil gepraegt. Der Rechner performt
+        auf allen Geraeten sichtbar besser als die reinen Informationsseiten.
+      </p>
+      <img src="viz3_device_matrix.svg" alt="Geraete-Matrix: Klicks und CTR pro Landingpage">
+    </section>
+  </main>
+</body>
+</html>

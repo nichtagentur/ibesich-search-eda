@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+<style>text{font-family:Arial,sans-serif;font-size:12px;fill:#17202a}.title{font-size:18px;font-weight:700}.axis{stroke:#566573;stroke-width:1}.grid{stroke:#d5dbdb;stroke-width:1}.label{font-size:12px;font-weight:700}</style>
+<text x="18" y="30" class="title">Landingpage-Portfolio: Impressionen vs. CTR, Bubble = Klicks</text>
+<line x1="72.0" y1="64" x2="72.0" y2="456" class="grid"/>
+<text x="54.0" y="482">0</text>
+<line x1="72" y1="64.0" x2="946" y2="64.0" class="grid"/>
+<text x="14" y="68.0">3,43%</text>
+<line x1="290.5" y1="64" x2="290.5" y2="456" class="grid"/>
+<text x="272.5" y="482">68.457</text>
+<line x1="72" y1="162.0" x2="946" y2="162.0" class="grid"/>
+<text x="14" y="166.0">2,57%</text>
+<line x1="509.0" y1="64" x2="509.0" y2="456" class="grid"/>
+<text x="491.0" y="482">136.914</text>
+<line x1="72" y1="260.0" x2="946" y2="260.0" class="grid"/>
+<text x="14" y="264.0">1,72%</text>
+<line x1="727.5" y1="64" x2="727.5" y2="456" class="grid"/>
+<text x="709.5" y="482">205.370</text>
+<line x1="72" y1="358.0" x2="946" y2="358.0" class="grid"/>
+<text x="14" y="362.0">0,86%</text>
+<line x1="946.0" y1="64" x2="946.0" y2="456" class="grid"/>
+<text x="928.0" y="482">273.827</text>
+<line x1="72" y1="456.0" x2="946" y2="456.0" class="grid"/>
+<text x="14" y="460.0">0,00%</text>
+<line x1="72" y1="456" x2="946" y2="456" class="axis"/>
+<line x1="72" y1="64" x2="72" y2="456" class="axis"/>
+<text x="435.0" y="508">Impressionen</text>
+<text x="14" y="54">CTR</text>
+<circle cx="307.7" cy="64.0" r="34.0" fill="#1f77b4" fill-opacity="0.72" stroke="#17202a" stroke-opacity="0.3"/>
+<text x="346.7" y="68.0" class="label">rechner</text>
+<circle cx="946.0" cy="368.0" r="31.7" fill="#d62728" fill-opacity="0.72" stroke="#17202a" stroke-opacity="0.3"/>
+<text x="982.7" y="372.0" class="label">unterhalt-alimente</text>
+<circle cx="259.9" cy="338.3" r="20.7" fill="#2ca02c" fill-opacity="0.72" stroke="#17202a" stroke-opacity="0.3"/>
+<text x="285.6" y="342.3" class="label">vermoegensaufteilung</text>
+<circle cx="266.9" cy="358.9" r="19.8" fill="#9467bd" fill-opacity="0.72" stroke="#17202a" stroke-opacity="0.3"/>
+<text x="291.7" y="362.9" class="label">kinder-obsorge</text>
+<circle cx="165.1" cy="310.9" r="18.0" fill="#ff7f0e" fill-opacity="0.72" stroke="#17202a" stroke-opacity="0.3"/>
+<text x="188.1" y="314.9" class="label">strittig</text>
+<circle cx="197.5" cy="373.7" r="16.7" fill="#17becf" fill-opacity="0.72" stroke="#17202a" stroke-opacity="0.3"/>
+<text x="219.2" y="377.7" class="label">einvernehmlich</text>
+</svg>

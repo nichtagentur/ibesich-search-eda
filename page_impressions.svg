@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="264" viewBox="0 0 920 264">
+<style>text{font-family:Arial,sans-serif;font-size:13px;fill:#17202a}.title{font-size:18px;font-weight:700}.axis{fill:#5d6d7e}.bar{fill:#1f77b4}.label{font-size:12px}</style>
+<text x="18" y="28" class="title">Impressionen je Landingpage</text>
+<text x="18" y="71" class="label">rechner</text>
+<rect x="240" y="54" width="151.6" height="20" rx="2" class="bar"/>
+<text x="399.57316115649667" y="69" class="axis">73.852 Impr.</text>
+<text x="18" y="101" class="label">unterhalt-alimente</text>
+<rect x="240" y="84" width="562.0" height="20" rx="2" class="bar"/>
+<text x="810.0" y="99" class="axis">273.827 Impr.</text>
+<text x="18" y="131" class="label">vermoegensaufteilung</text>
+<rect x="240" y="114" width="120.8" height="20" rx="2" class="bar"/>
+<text x="368.8016667457921" y="129" class="axis">58.859 Impr.</text>
+<text x="18" y="161" class="label">kinder-obsorge</text>
+<rect x="240" y="144" width="125.4" height="20" rx="2" class="bar"/>
+<text x="373.35386941390004" y="159" class="axis">61.077 Impr.</text>
+<text x="18" y="191" class="label">strittig</text>
+<rect x="240" y="174" width="59.9" height="20" rx="2" class="bar"/>
+<text x="307.8867094917594" y="189" class="axis">29.179 Impr.</text>
+<text x="18" y="221" class="label">einvernehmlich</text>
+<rect x="240" y="204" width="80.7" height="20" rx="2" class="bar"/>
+<text x="328.7164231430794" y="219" class="axis">39.328 Impr.</text>
+</svg>

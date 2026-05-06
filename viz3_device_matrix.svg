@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="450" viewBox="0 0 980 450">
+<style>text{font-family:Arial,sans-serif;font-size:12px;fill:#17202a}.title{font-size:18px;font-weight:700}.head{font-weight:700}.muted{fill:#5d6d7e}</style>
+<text x="18" y="30" class="title">Geräte-Matrix: Klicks und CTR pro Landingpage</text>
+<text x="202" y="56" class="head">Mobil</text>
+<text x="352" y="56" class="head">Computer</text>
+<text x="502" y="56" class="head">Tablet</text>
+<text x="18" y="102" class="head">einvernehmlich</text>
+<rect x="190" y="70" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.13" stroke="#d5dbdb"/>
+<text x="202" y="92" class="head">100 Klicks</text>
+<text x="202" y="110" class="muted">CTR 0,78%</text>
+<rect x="340" y="70" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.09" stroke="#d5dbdb"/>
+<text x="352" y="92" class="head">25 Klicks</text>
+<text x="352" y="110" class="muted">CTR 0,37%</text>
+<rect x="490" y="70" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.08" stroke="#d5dbdb"/>
+<text x="502" y="92" class="head">1 Klicks</text>
+<text x="502" y="110" class="muted">CTR 0,54%</text>
+<text x="18" y="158" class="head">kinder-obsorge</text>
+<rect x="190" y="126" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.11" stroke="#d5dbdb"/>
+<text x="202" y="148" class="head">63 Klicks</text>
+<text x="202" y="166" class="muted">CTR 0,58%</text>
+<rect x="340" y="126" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.09" stroke="#d5dbdb"/>
+<text x="352" y="148" class="head">17 Klicks</text>
+<text x="352" y="166" class="muted">CTR 0,83%</text>
+<rect x="490" y="126" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.08" stroke="#d5dbdb"/>
+<text x="502" y="148" class="head">1 Klicks</text>
+<text x="502" y="166" class="muted">CTR 0,71%</text>
+<text x="18" y="214" class="head">rechner</text>
+<rect x="190" y="182" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.90" stroke="#d5dbdb"/>
+<text x="202" y="204" class="head">1.549 Klicks</text>
+<text x="202" y="222" class="muted">CTR 3,79%</text>
+<rect x="340" y="182" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.36" stroke="#d5dbdb"/>
+<text x="352" y="204" class="head">534 Klicks</text>
+<text x="352" y="222" class="muted">CTR 3,42%</text>
+<rect x="490" y="182" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.09" stroke="#d5dbdb"/>
+<text x="502" y="204" class="head">18 Klicks</text>
+<text x="502" y="222" class="muted">CTR 4,22%</text>
+<text x="18" y="270" class="head">strittig</text>
+<rect x="190" y="238" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.11" stroke="#d5dbdb"/>
+<text x="202" y="260" class="head">49 Klicks</text>
+<text x="202" y="278" class="muted">CTR 0,88%</text>
+<rect x="340" y="238" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.09" stroke="#d5dbdb"/>
+<text x="352" y="260" class="head">17 Klicks</text>
+<text x="352" y="278" class="muted">CTR 0,81%</text>
+<rect x="490" y="238" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.08" stroke="#d5dbdb"/>
+<text x="502" y="260" class="head">2 Klicks</text>
+<text x="502" y="278" class="muted">CTR 2,47%</text>
+<text x="18" y="326" class="head">unterhalt-alimente</text>
+<rect x="190" y="294" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.43" stroke="#d5dbdb"/>
+<text x="202" y="316" class="head">669 Klicks</text>
+<text x="202" y="334" class="muted">CTR 0,70%</text>
+<rect x="340" y="294" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.17" stroke="#d5dbdb"/>
+<text x="352" y="316" class="head">164 Klicks</text>
+<text x="352" y="334" class="muted">CTR 0,90%</text>
+<rect x="490" y="294" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.09" stroke="#d5dbdb"/>
+<text x="502" y="316" class="head">13 Klicks</text>
+<text x="502" y="334" class="muted">CTR 0,75%</text>
+<text x="18" y="382" class="head">vermoegensaufteilung</text>
+<rect x="190" y="350" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.12" stroke="#d5dbdb"/>
+<text x="202" y="372" class="head">75 Klicks</text>
+<text x="202" y="390" class="muted">CTR 0,97%</text>
+<rect x="340" y="350" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.09" stroke="#d5dbdb"/>
+<text x="352" y="372" class="head">16 Klicks</text>
+<text x="352" y="390" class="muted">CTR 0,57%</text>
+<rect x="490" y="350" width="142" height="48" rx="4" fill="#1f77b4" fill-opacity="0.08" stroke="#d5dbdb"/>
+<text x="502" y="372" class="head">3 Klicks</text>
+<text x="502" y="390" class="muted">CTR 1,64%</text>
+</svg>

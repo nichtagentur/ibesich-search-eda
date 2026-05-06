@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="456" viewBox="0 0 1160 456">
+<style>text{font-family:Arial,sans-serif;font-size:12px;fill:#17202a}.title{font-size:18px;font-weight:700}.muted{fill:#5d6d7e}.query{font-weight:700}.axis{stroke:#566573;stroke-width:1}</style>
+<text x="18" y="30" class="title">rechner: Top 5 und Flop 5 nach normalisierter CTR</text>
+<line x1="575" y1="48" x2="575" y2="430" class="axis"/>
+<text x="483" y="54" class="muted">unter Erwartung</text>
+<text x="589" y="54" class="muted">über Erwartung</text>
+<text x="18" y="84" class="query">alimente berechnen</text>
+<rect x="575.0" y="68" width="360.0" height="22" rx="2" fill="#2ca02c" fill-opacity="0.82"/>
+<text x="924" y="84" class="muted">Pos 5,69 | Index 301 | 3.806 Impr. | 3,57% CTR</text>
+<text x="18" y="118" class="query">alimente rechner österreich</text>
+<rect x="575.0" y="102" width="342.6" height="22" rx="2" fill="#2ca02c" fill-opacity="0.82"/>
+<text x="924" y="118" class="muted">Pos 4,96 | Index 139 | 5.475 Impr. | 5,64% CTR</text>
+<text x="18" y="152" class="query">alimente rechner österreich 2026</text>
+<rect x="575.0" y="136" width="275.4" height="22" rx="2" fill="#2ca02c" fill-opacity="0.82"/>
+<text x="924" y="152" class="muted">Pos 3,80 | Index 343 | 767 Impr. | 12,78% CTR</text>
+<text x="18" y="186" class="query">unterhaltsrechner österreich</text>
+<rect x="575.0" y="170" width="209.5" height="22" rx="2" fill="#2ca02c" fill-opacity="0.82"/>
+<text x="924" y="186" class="muted">Pos 6,63 | Index 205 | 4.223 Impr. | 2,44% CTR</text>
+<text x="18" y="220" class="query">alimente rechner</text>
+<rect x="575.0" y="204" width="145.3" height="22" rx="2" fill="#2ca02c" fill-opacity="0.82"/>
+<text x="924" y="220" class="muted">Pos 5,36 | Index 108 | 10.609 Impr. | 4,41% CTR</text>
+<text x="18" y="254" class="query">alimente österreich</text>
+<rect x="537.9" y="238" width="37.1" height="22" rx="2" fill="#d62728" fill-opacity="0.82"/>
+<text x="924" y="254" class="muted">Pos 7,15 | Index 84 | 4.997 Impr. | 1,00% CTR</text>
+<text x="18" y="288" class="query">ehegattenunterhalt österreich rechner</text>
+<rect x="553.6" y="272" width="21.4" height="22" rx="2" fill="#d62728" fill-opacity="0.82"/>
+<text x="924" y="288" class="muted">Pos 5,44 | Index 48 | 256 Impr. | 1,95% CTR</text>
+<text x="18" y="322" class="query">wie werden alimente berechnet</text>
+<rect x="567.5" y="306" width="7.5" height="22" rx="2" fill="#d62728" fill-opacity="0.82"/>
+<text x="924" y="322" class="muted">Pos 6,97 | Index 0 | 159 Impr. | 0,00% CTR</text>
+<text x="18" y="356" class="query">alimente</text>
+<rect x="570.2" y="340" width="4.8" height="22" rx="2" fill="#d62728" fill-opacity="0.82"/>
+<text x="924" y="356" class="muted">Pos 11,04 | Index 0 | 429 Impr. | 0,00% CTR</text>
+<text x="18" y="390" class="query">unterhalt ehefrau österreich berechnung</text>
+<rect x="570.7" y="374" width="4.3" height="22" rx="2" fill="#d62728" fill-opacity="0.82"/>
+<text x="924" y="390" class="muted">Pos 7,37 | Index 65 | 259 Impr. | 0,77% CTR</text>
+</svg>

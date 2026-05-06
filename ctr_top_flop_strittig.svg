@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="456" viewBox="0 0 1160 456">
+<style>text{font-family:Arial,sans-serif;font-size:12px;fill:#17202a}.title{font-size:18px;font-weight:700}.muted{fill:#5d6d7e}.query{font-weight:700}.axis{stroke:#566573;stroke-width:1}</style>
+<text x="18" y="30" class="title">strittig: Top 5 und Flop 5 nach normalisierter CTR</text>
+<line x1="575" y1="48" x2="575" y2="430" class="axis"/>
+<text x="483" y="54" class="muted">unter Erwartung</text>
+<text x="589" y="54" class="muted">über Erwartung</text>
+<text x="18" y="84" class="query">scheidungsklage österreich</text>
+<rect x="575.0" y="68" width="137.6" height="22" rx="2" fill="#2ca02c" fill-opacity="0.82"/>
+<text x="924" y="84" class="muted">Pos 7,55 | Index 436 | 321 Impr. | 1,56% CTR</text>
+<text x="18" y="118" class="query">scheidung ohne einwilligung des partners öste...</text>
+<rect x="575.0" y="102" width="66.0" height="22" rx="2" fill="#2ca02c" fill-opacity="0.82"/>
+<text x="924" y="118" class="muted">Pos 2,80 | Index 112 | 773 Impr. | 2,20% CTR</text>
+<text x="18" y="152" class="query">streitige scheidung</text>
+<rect x="575.0" y="136" width="54.2" height="22" rx="2" fill="#2ca02c" fill-opacity="0.82"/>
+<text x="924" y="152" class="muted">Pos 12,40 | Index 416 | 170 Impr. | 1,18% CTR</text>
+<text x="18" y="186" class="query">scheidungsklage</text>
+<rect x="575.0" y="170" width="23.8" height="22" rx="2" fill="#2ca02c" fill-opacity="0.82"/>
+<text x="924" y="186" class="muted">Pos 15,46 | Index 300 | 118 Impr. | 0,85% CTR</text>
+<text x="18" y="220" class="query">scheidung österreich</text>
+<rect x="575.0" y="204" width="12.8" height="22" rx="2" fill="#2ca02c" fill-opacity="0.82"/>
+<text x="924" y="220" class="muted">Pos 13,34 | Index 156 | 227 Impr. | 0,44% CTR</text>
+<text x="18" y="254" class="query">strittige scheidung österreich</text>
+<rect x="215.0" y="238" width="360.0" height="22" rx="2" fill="#d62728" fill-opacity="0.82"/>
+<text x="924" y="254" class="muted">Pos 4,77 | Index 33 | 371 Impr. | 1,35% CTR</text>
+<text x="18" y="288" class="query">nicht einvernehmliche scheidung</text>
+<rect x="337.2" y="272" width="237.8" height="22" rx="2" fill="#d62728" fill-opacity="0.82"/>
+<text x="924" y="288" class="muted">Pos 4,45 | Index 0 | 179 Impr. | 0,00% CTR</text>
+<text x="18" y="322" class="query">strittige scheidung</text>
+<rect x="391.1" y="306" width="183.9" height="22" rx="2" fill="#d62728" fill-opacity="0.82"/>
+<text x="924" y="322" class="muted">Pos 3,70 | Index 68 | 434 Impr. | 2,53% CTR</text>
+<text x="18" y="356" class="query">strittige scheidung anwalt</text>
+<rect x="403.6" y="340" width="171.4" height="22" rx="2" fill="#d62728" fill-opacity="0.82"/>
+<text x="924" y="356" class="muted">Pos 3,87 | Index 0 | 129 Impr. | 0,00% CTR</text>
+<text x="18" y="390" class="query">einseitige scheidung österreich</text>
+<rect x="436.5" y="374" width="138.5" height="22" rx="2" fill="#d62728" fill-opacity="0.82"/>
+<text x="924" y="390" class="muted">Pos 4,96 | Index 20 | 120 Impr. | 0,83% CTR</text>
+</svg>
